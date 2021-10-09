@@ -1,5 +1,23 @@
 const data = [
     {
+        title: `English Cricket Chiefs Give "Conditional Approval" For Ashes Tour`,
+        author: `Agence France-Presse`,
+        description: `England's Ashes tour of Australia is set to go ahead after the England and Wales Cricket Board gave "conditional approval" to the trip on Friday. There were fears the Ashes would be cancelled after months of concern over tough Covid-19 quarantine guidelines which England's players and their families will have to follow in Australia. England Test captain Joe Root last week sparked fresh doubts about the tour when he refused to confirm he would tour Australia. But the five-match series is now set to start as scheduled in December following talks between Cricket Australia, the ECB and England's players this week.`,
+        url: `https://c.ndtvimg.com/2021-09/m61j0tdg_ashes_625x300_23_September_21.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605`,
+        timestamp : `October 09, 2021 08:18 AM IST`,
+        link: `https://sports.ndtv.com/cricket/english-cricket-chiefs-give-conditional-approval-for-ashes-tour-2569065`,
+        publisher: `NDTV SPORTS`
+    },
+    {   
+        title: `"Probably He Has Got More Ability Than Virat Kohli And Rohit Sharma": Gautam Gambhir On KL Rahul`,
+        author: `Bhargab Sarmah`,
+        description: `Punjab Kings (PBKS) captain KL Rahul has a bigger repertoire of shots than anyone else in India, if former India batsman Gautam Gambhir is to be believed. Speaking after Rahul led PBKS to a six-wicket victory over Chennai Super Kings (CSK) with a blistering knock of 98 not out off 42 deliveries in an Indian Premier League (IPL) 2021 clash in Dubai on Thursday, Gambhir said the 29-year-old India cricketer may possess "more ability than Virat Kohli and Rohit Sharma". Gambhir added that had Rahul batted throughout this IPL campaign the way he did on Thursday, PBKS would have made the cut for the playoffs.`,
+        url: `https://c.ndtvimg.com/2021-10/59b0f37o_kl-rahul-punjab-kings-bcciipl_625x300_09_October_21.jpg?output-quality=80&downsize=1278:*`,
+        timestamp: `October 09, 2021 09:14 AM IST`,
+        link: `https://sports.ndtv.com/ipl-2021/probably-he-has-got-more-ability-than-virat-kohli-and-rohit-sharma-gautam-gambhir-on-kl-rahul-2569333`,
+        publisher: `NDTV SPORTS`
+    },
+    {
         title: `Fakhar, Sarfaraz, Haider included in Pakistan's 15 for T20 WC`,
         author: 'Cricbuzz Staff',
         description: `Fakhar Zaman, Sarfaraz Ahmed and Haider Ali have been included in the Pakistan squad for the ICC T20 World Cup 2021, with the PCB announcing three changes on Friday (October 8). Fakhar, who was originally part of the reserves, will now join the 15-member squad while Khushdil Shah has been moved to the reserves. Sarfaraz and Haider replace Azam Khan and Mohammad Hasnain respectively.`,
@@ -126,25 +144,8 @@ const data = [
         timestamp: '2021-09-04T03:55:14.000Z',
         link: 'https://olympics.com/tokyo-2020/paralympic-games/en/results/shooting/results-p4-mixed-50m-pistol-sh1-fnl-000100-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
         publisher: 'Olympics'
-    },
-    {
-        title: 'Noida DM Suhas LY reaches badminton final at Paralympics, assures India of a medal',
-        author: 'Anmol Sharma',
-        description: 'Noida District Magistrate (DM) Suhas LY, who is representing India in para badminton at the Tokyo Paralympics, has entered the final of the mens singles SL4 category. He defeated Setiawan Fredy of Indonesia in the semi-final with the scoreline of 21-9, 21-15. Earlier in the day, Pramod Bhagat also reached the final of the mens singles SL3 event.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630725723044_624.jpg',
-        timestamp: '2021-09-04T03:55:14.000Z',
-        link: 'https://olympics.com/tokyo-2020/paralympic-games/en/results/badminton/results-men-s-singles-sl4-sfnl-000200-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Olympics'
-    },
-    {
-        title: 'Cristiano Ronaldo to wear jersey number seven at Manchester United again',
-        author: 'Anmol Sharma',
-        description: 'Manchester United have confirmed that Cristiano Ronaldo will wear the number seven jersey after returning to Old Trafford. The five-time Ballon dOr wore the shirt number during his first spell with the club from 2003-2009. It has previously been worn by club legends like George Best, Bryan Robson, Eric Cantona and David Beckham. Ronaldo inherited the number from Edinson Cavani.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/3_fri/img_1630691914830_548.jpg',
-        timestamp: '2021-09-04T03:55:14.000Z',
-        link: 'https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Man Utd'
     }
+    
 
 ];
 
